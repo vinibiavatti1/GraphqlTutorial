@@ -12,4 +12,4 @@ For this tutorial we will use NodeJS with javascript language for logic rules, a
 - ExpressJS
 
 # Wiki
-Click ´[here](https://github.com/vinibiavatti1/GraphqlTutorial/wiki) to access the tutorial
+Click [here](https://github.com/vinibiavatti1/GraphqlTutorial/wiki) to access the tutorial
